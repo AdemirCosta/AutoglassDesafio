@@ -1,0 +1,15 @@
+C:\projetos\AutoGlass\AutoGlass\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\projetos\AutoGlass\AutoGlass\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\AutoGlass\AutoGlass\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\projetos\AutoGlass\AutoGlass\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\projetos\AutoGlass\AutoGlass\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\projetos\AutoGlass\AutoGlass\Data\bin\Debug\net6.0\Data.deps.json
+C:\projetos\AutoGlass\AutoGlass\Data\bin\Debug\net6.0\Data.dll
+C:\projetos\AutoGlass\AutoGlass\Data\bin\Debug\net6.0\Data.pdb
+C:\projetos\AutoGlass\AutoGlass\Data\bin\Debug\net6.0\Core.dll
+C:\projetos\AutoGlass\AutoGlass\Data\bin\Debug\net6.0\Core.pdb
+C:\projetos\AutoGlass\AutoGlass\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\projetos\AutoGlass\AutoGlass\Data\obj\Debug\net6.0\Data.dll
+C:\projetos\AutoGlass\AutoGlass\Data\obj\Debug\net6.0\refint\Data.dll
+C:\projetos\AutoGlass\AutoGlass\Data\obj\Debug\net6.0\Data.pdb
+C:\projetos\AutoGlass\AutoGlass\Data\obj\Debug\net6.0\ref\Data.dll
